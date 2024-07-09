@@ -2,7 +2,7 @@
   <a href="https://github.com/hugoMGSung">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=FCBACB&fontSize=60&animation=twinkling&descAlign=50&descAlignY=65&reversal=false&fontAlignY=100"/>
   </a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&size=50&duration=500&pause=100&color=000000&background=8D8D8D00&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=550&height=300&lines=Hi!+I'm+Eunsu;Welcome+to+my+Github" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&size=50&duration=500&pause=100&color=000000&background=8D8D8D00&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=550&height=200&lines=Hi!+I'm+Eunsu;Welcome+to+my+Github" alt="Typing SVG" /></a>
 </p>
 
 
