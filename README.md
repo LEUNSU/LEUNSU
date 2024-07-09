@@ -1,7 +1,8 @@
 <p align='center'>
   <a href="https://github.com/hugoMGSung">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&font=Lobster&height=300&color=FFFFFF&text=Hi!%20I'm%20Eunsu&fontSize=60&fontColor=gradient&desc=This%20is%20my%20portfolio&animation=twinkling&descSize=20&descAlign=50&descAlignY=65"/>
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=FCBACB&fontSize=60&animation=twinkling&descAlign=50&descAlignY=65&reversal=false"/>
   </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&duration=500&pause=100&color=000000&background=8D8D8D00&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=500&height=70&lines=Hi!+I'm+Eunsu;Welcome+to+my+Github" alt="Typing SVG" /></a>
 </p>
 
 
