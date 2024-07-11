@@ -59,9 +59,10 @@
 
 ## Project List
 - 개인 프로젝트
+  - [C#]
   - [WPF]
   - [IoT]
  
 
 - 팀 프로젝트
-  -
+  - [IoT]
