@@ -43,8 +43,20 @@
 ## 기술 명세
 | 기술 분류 | 설명 |
 |:---:|:---:|
-| VSCode | VisualStudio Code 툴 사용법 습득 |
 | Python | 빅데이터 분석, 머신러닝, OpenCV |
+| C/C++ |  |
+| C# |  |
+| Javascript |  |
+| HTML |  |
+| CSS |  |
+| MySQL |  |
+| Linux |  |
+| VSCode |  |
+| WPF |  |
+| PyQT |  |
+| QtDesigner |  |
+| jQuery |  |
+
 
 ## Project List
 - 개인 프로젝트
