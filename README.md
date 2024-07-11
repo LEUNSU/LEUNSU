@@ -7,7 +7,7 @@
 
 
 ## Profile
-- Name : Lee EunSu
+- Name : LEE EunSu
 - Email : lesu002@naver.com
   
 ## GitHub Stat and Languages
