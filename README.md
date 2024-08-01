@@ -7,7 +7,7 @@
 
 
 ## Profile
-- Name : LEE EunSu
+- Name : LEE EUNSU
 - Email : lesu002@naver.com
   
 ## GitHub Stat and Languages
@@ -59,9 +59,9 @@
 
 ## Project List
 - 개인 프로젝트
-  - [C#]
-  - [WPF]
-  - [IoT]
+  - [C#] (https://github.com/LEUNSU/csharp-toyproject-2024)
+  - [WPF] (https://github.com/LEUNSU/wpf-toyproject-2024)
+  - [IoT] ()
  
 
 - 팀 프로젝트
