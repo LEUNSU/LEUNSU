@@ -59,9 +59,9 @@
 
 ## Project List
 - 개인 프로젝트
-  - [C#](https://github.com/LEUNSU/csharp-toyproject-2024)
-  - [WPF](https://github.com/LEUNSU/wpf-toyproject-2024)
-  - [IoT]
+  - [스케줄관리 앱](https://github.com/LEUNSU/csharp-toyproject-2024)
+  - [부산광역시 지진 발생 시 옥외대피장소 데이터포털 API 연동 앱](https://github.com/LEUNSU/wpf-toyproject-2024)
+  - [스마트홈]
  
 
 - 팀 프로젝트
