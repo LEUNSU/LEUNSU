@@ -59,9 +59,9 @@
 
 ## Project List
 - 개인 프로젝트
-  - [C#] (https://github.com/LEUNSU/csharp-toyproject-2024)
-  - [WPF] (https://github.com/LEUNSU/wpf-toyproject-2024)
-  - [IoT] ()
+  - [C#](https://github.com/LEUNSU/csharp-toyproject-2024)
+  - [WPF](https://github.com/LEUNSU/wpf-toyproject-2024)
+  - [IoT]
  
 
 - 팀 프로젝트
