@@ -57,7 +57,7 @@
  
 
 - 팀 프로젝트
-  - [스마트팩토리]
+  - [스마트팩토리](https://github.com/team4-smartfactory/SmartFactory_Project)
 
 ## GitHub Stat and Languages
 <p align='center'>
