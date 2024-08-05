@@ -22,15 +22,18 @@
 </p>
 
 ## 💡Using Technics
+<p align='left'>
+  <img height="40" src="https://raw.githubusercontent.com/hugoMGSung/hugoMGSung/main/images/wpf.png" title="WPF"> 
+  <img height="40" src="https://img.icons8.com/?size=100&id=NFQusZJ4neki&format=png&color=000000" title="Databases">
+  <img height="40" src="https://w7.pngwing.com/pngs/673/239/png-transparent-entity-framework-core-asp-net-core-net-framework-microsoft-blue-text-logo-thumbnail.png" title="ASP.NET Core">  
+  <img height="40" src="https://img.icons8.com/?size=100&id=13443&format=png&color=000000" title="Raspberry Pi">
+  <img height="40" src="https://mosquitto.org/stickers/mosquitto-mono.png" title="MQTT">
+</p>
 
 ## 🛠️Using Tools
 <p align='left'>
   <img height="40" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" title="Visual Studio Code">
   <img height="40" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" title="Visual Studio">
-  <img height="40" src="https://img.icons8.com/?size=100&id=NFQusZJ4neki&format=png&color=000000" title="Databases">
-  
-  <img height="40" src="https://img.icons8.com/?size=100&id=13443&format=png&color=000000" title="Raspberry Pi">
-  <img height="40" src="https://mosquitto.org/stickers/mosquitto-mono.png" title="MQTT">
   <img height="40" src="https://img.icons8.com/?size=100&id=KyMSnxjEVwCr&format=png&color=000000" title="Notion">
 </p>
 
