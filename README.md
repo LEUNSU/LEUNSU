@@ -6,7 +6,7 @@
 </p>
 
 
-## Profile
+## 👩‍💻Profile
 - Name : LEE EUNSU
 - Email : lesu002@naver.com
   
@@ -18,7 +18,7 @@
     <img height="40" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" title="Javascript">
 </p>
 
-## Using Technics
+## 💡Using Technics
 
 ## 🛠️Using Tools
 <p align='left'>
@@ -41,7 +41,7 @@
 - 팀 프로젝트
   - [스마트팩토리 물품분류시스템](https://github.com/team4-smartfactory/SmartFactory_Project)
 
-## 기술 명세
+## 📌기술 명세
 | 기술 분류 | 설명 |
 |:---:|:---:|
 | Python | 빅데이터 분석, 머신러닝, OpenCV |
