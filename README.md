@@ -12,9 +12,9 @@
   
 ## 💻Using Languages
 <p align='left'>
+    <img height="40" src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" title="C#">
     <img height="40" src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" title="C">
     <img height="40" src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" title="C++">
-    <img height="40" src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" title="C#">
     <img height="40" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" title="Python">
     <img height="40" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" title="Javascript">
     <img height="40" src="https://img.icons8.com/?size=100&id=v8RpPQUwv0N8&format=png&color=000000" title="HTML">
@@ -32,8 +32,8 @@
 
 ## 🛠️Using Tools
 <p align='left'>
-  <img height="40" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" title="Visual Studio Code">
   <img height="40" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" title="Visual Studio">
+  <img height="40" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" title="Visual Studio Code">
   <img height="40" src="https://img.icons8.com/?size=100&id=KyMSnxjEVwCr&format=png&color=000000" title="Notion">
 </p>
 
