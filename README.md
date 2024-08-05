@@ -10,7 +10,7 @@
 - Name : LEE EUNSU
 - Email : lesu002@naver.com
   
-## Using Languages
+## 💻Using Languages
 <p align='left'>
     <img height="40" src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" title="C#">
     <img height="40" src="https://img.icons8.com/?size=100&id=55199&format=png&color=000000" title="C++">
@@ -20,7 +20,7 @@
 
 ## Using Technics
 
-## Using Tools
+## 🛠️Using Tools
 <p align='left'>
   <img height="40" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" title="Visual Studio Code">
   <img height="40" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" title="Visual Studio">
@@ -31,7 +31,7 @@
   <img height="40" src="https://mosquitto.org/stickers/mosquitto-mono.png" title="MQTT">
 </p>
 
-## Project List
+## 📑Project List
 - 개인 프로젝트
   - [스케줄관리 프로그램](https://github.com/LEUNSU/csharp-toyproject-2024)
   - [부산광역시 지진 발생 시 옥외대피장소 데이터포털 API 연동 프로그램](https://github.com/LEUNSU/wpf-toyproject-2024)
