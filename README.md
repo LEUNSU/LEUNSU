@@ -53,11 +53,11 @@
 - 개인 프로젝트
   - [스케줄관리 앱](https://github.com/LEUNSU/csharp-toyproject-2024)
   - [부산광역시 지진 발생 시 옥외대피장소 데이터포털 API 연동 앱](https://github.com/LEUNSU/wpf-toyproject-2024)
-  - [스마트홈]
+  - [스마트홈](https://github.com/LEUNSU/raspberrypi-toyproject-2024)
  
 
 - 팀 프로젝트
-  - [IoT]
+  - [스마트팩토리]
 
 ## GitHub Stat and Languages
 <p align='center'>
