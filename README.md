@@ -10,14 +10,6 @@
 - Name : LEE EUNSU
 - Email : lesu002@naver.com
   
-## GitHub Stat and Languages
-<p align='center'>
-  <a href="https://github.com/LEUNSU">
-    <img src="https://github-readme-stats.vercel.app/api?username=LEUNSU&theme=tokyonight&show_icons=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEUNSU&theme=tokyonight&layout=compact"/>
-  </a>
-</p>
-
 ## Using Languages
 <p align='left'>
     <img height="40" src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" title="C#">
@@ -66,3 +58,11 @@
 
 - 팀 프로젝트
   - [IoT]
+
+## GitHub Stat and Languages
+<p align='center'>
+  <a href="https://github.com/LEUNSU">
+    <img src="https://github-readme-stats.vercel.app/api?username=LEUNSU&theme=tokyonight&show_icons=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEUNSU&theme=tokyonight&layout=compact"/>
+  </a>
+</p>
