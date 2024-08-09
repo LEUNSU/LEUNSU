@@ -41,7 +41,7 @@
 - 개인 프로젝트
   - [C# WinForm][스케줄관리 프로그램](https://github.com/LEUNSU/csharp-toyproject-2024)
   - [C# WPF][부산광역시 옥외대피장소 안내 서비스](https://github.com/LEUNSU/wpf-toyproject-2024)
-  - [RasberryPi Qt][스마트홈 시스템](https://github.com/LEUNSU/raspberrypi-toyproject-2024)
+  - [Python RasberryPi Qt][스마트홈 시스템](https://github.com/LEUNSU/raspberrypi-toyproject-2024)
  
 
 - 팀 프로젝트
