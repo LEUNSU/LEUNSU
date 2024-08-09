@@ -60,7 +60,6 @@
 | VSCode |  |
 | WPF |  |
 | PyQT |  |
-| QtDesigner |  |
 | jQuery |  |
 
 
