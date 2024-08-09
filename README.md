@@ -42,7 +42,7 @@
   - [C# WinForm][스케줄관리 프로그램](https://github.com/LEUNSU/csharp-toyproject-2024)
   - [C# WPF][부산광역시 옥외대피장소 안내 서비스](https://github.com/LEUNSU/wpf-toyproject-2024)
   - [Python RasberryPi Qt][스마트홈 시스템](https://github.com/LEUNSU/raspberrypi-toyproject-2024)
- 
+  - [HTML CSS javascript][웹페이지 클로닝](https://github.com/LEUNSU/web-basic-2024)
 
 - 팀 프로젝트
   - [C Arduino C# WPF][스마트팩토리 물품분류시스템](https://github.com/team4-smartfactory/SmartFactory_Project)
