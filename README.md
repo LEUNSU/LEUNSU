@@ -45,7 +45,7 @@
  
 
 - 팀 프로젝트
-  - [Arduino C# WPF][스마트팩토리 물품분류시스템](https://github.com/team4-smartfactory/SmartFactory_Project)
+  - [Arduino C C# WPF][스마트팩토리 물품분류시스템](https://github.com/team4-smartfactory/SmartFactory_Project)
 
 ## 📌기술 명세
 | 기술 분류 | 설명 |
