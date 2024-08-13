@@ -47,23 +47,6 @@
 - 팀 프로젝트
   - [C Arduino C# WPF][스마트팩토리 물품분류시스템](https://github.com/team4-smartfactory/SmartFactory_Project)
 
-## 📌기술 명세
-| 기술 분류 | 설명 |
-|:---:|:---:|
-| Python | 빅데이터 분석, 머신러닝, OpenCV |
-| C/C++ |  |
-| C# |  |
-| Javascript |  |
-| HTML/CSS |  |
-| MySQL |  |
-| Linux |  |
-| VSCode |  |
-| WPF |  |
-| PyQT |  |
-| jQuery |  |
-
-
-
 ## GitHub Stat and Languages
 <p align='center'>
   <a href="https://github.com/LEUNSU">
